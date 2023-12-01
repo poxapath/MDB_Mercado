@@ -80,7 +80,7 @@ Este documento detalha a necessidade e a modelagem do banco de dados para o comp
 
 **Modelagem conceitual - DER**
 
-<img src="img/MER.png">
+<img src="Script/img/MER.png">
 
 ---
 <br>
